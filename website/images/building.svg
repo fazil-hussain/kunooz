@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bcd3ee"/><stop offset="1" stop-color="#f3e6cc"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#s)"/>
+  <rect x="140" y="220" width="320" height="220" fill="#f4ecdc"/>
+  <rect x="120" y="205" width="360" height="22" fill="#0b1f45"/>
+  <rect x="200" y="120" width="200" height="90" fill="#efe4cf"/>
+  <rect x="185" y="108" width="230" height="16" fill="#0b1f45"/>
+  <g fill="#3b6aa5"><rect x="220" y="140" width="50" height="50"/><rect x="330" y="140" width="50" height="50"/>
+  <rect x="170" y="260" width="70" height="70"/><rect x="360" y="260" width="70" height="70"/></g>
+  <path d="M245 140 v50 M355 140 v50 M205 260 v70 M395 260 v70" stroke="#f4ecdc" stroke-width="4"/>
+  <rect x="270" y="320" width="60" height="120" fill="#c9a24a"/>
+  <rect x="520" y="80" width="170" height="360" fill="#13306a"/>
+  <g fill="#e6c877" opacity=".85">
+    <rect x="540" y="100" width="30" height="24"/><rect x="590" y="100" width="30" height="24"/><rect x="640" y="100" width="30" height="24"/>
+    <rect x="540" y="150" width="30" height="24"/><rect x="590" y="150" width="30" height="24"/><rect x="640" y="150" width="30" height="24"/>
+    <rect x="540" y="200" width="30" height="24"/><rect x="590" y="200" width="30" height="24"/><rect x="640" y="200" width="30" height="24"/>
+    <rect x="540" y="250" width="30" height="24"/><rect x="590" y="250" width="30" height="24"/><rect x="640" y="250" width="30" height="24"/>
+    <rect x="540" y="300" width="30" height="24"/><rect x="590" y="300" width="30" height="24"/><rect x="640" y="300" width="30" height="24"/>
+    <rect x="540" y="350" width="30" height="24"/><rect x="640" y="350" width="30" height="24"/>
+  </g>
+  <path d="M90 440 q6 -80 -4 -150" stroke="#8a6a3a" stroke-width="10" fill="none"/>
+  <g fill="#2f7d52"><path d="M86 290 q-50 -10 -70 20 q40 -12 70 -20z"/><path d="M86 290 q50 -20 80 5 q-45 -8 -80 -5z"/><path d="M86 290 q-20 -45 10 -70 q-5 40 -10 70z"/><path d="M86 290 q30 -35 65 -30 q-40 10 -65 30z"/></g>
+  <rect y="440" width="800" height="60" fill="#d8c9a8"/>
+  <path d="M0 440 H800" stroke="#c9a24a" stroke-width="4"/>
+  <circle cx="730" cy="430" r="44" fill="#c9a24a"/>
+  <path d="M710 430 l14 14 l26 -30" stroke="#0b1f45" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
