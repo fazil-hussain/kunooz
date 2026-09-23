@@ -4,12 +4,12 @@
       <stop offset="0" stop-color="#e2c27a"/><stop offset=".55" stop-color="#b8904a"/><stop offset="1" stop-color="#8f6a2e"/>
     </linearGradient>
   </defs>
-  <path d="M22 40 L43 27 V63 L60 48 L77 63 V27 L98 40 V82 H22 Z" fill="#0d1d45"/>
+  <path d="M22 40 L43 27 V63 L60 48 L77 63 V27 L98 40 V82 H22 Z" fill="#ffffff"/>
   <path d="M49 54 V17 L71 3 V54 L60 44 Z" fill="url(#kg)"/>
   <path d="M49 17 L57 12 V47 L49 54 Z" fill="#fff" opacity=".22"/>
-  <g fill="#fff">
+  <g fill="#0d1d45">
     <rect x="53.5" y="63" width="5.5" height="5.5"/><rect x="61" y="63" width="5.5" height="5.5"/>
     <rect x="53.5" y="70.5" width="5.5" height="5.5"/><rect x="61" y="70.5" width="5.5" height="5.5"/>
   </g>
-  <path d="M6 81 Q58 110 114 77 Q60 101 6 81 Z" fill="#0d1d45"/>
+  <path d="M6 81 Q58 110 114 77 Q60 101 6 81 Z" fill="#ffffff"/>
 </svg>

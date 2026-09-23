@@ -17,6 +17,7 @@ kunooz/
 ├── css/style.css
 ├── js/main.js
 ├── images/           Logo and illustrations
+├── favicon.ico / favicon.svg / apple-touch-icon.png   Browser and phone icons
 └── reference/        Client-supplied screenshots (do not upload)
 ```
 
