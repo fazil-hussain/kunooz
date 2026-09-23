@@ -11,6 +11,8 @@ kunooz/
 ├── services.html     Services
 ├── blog.html         Articles list
 ├── contact.html      Contact + map
+├── privacy.html      Privacy Policy
+├── terms.html        Terms & Conditions
 ├── articles/         The 3 articles
 ├── css/style.css
 ├── js/main.js
