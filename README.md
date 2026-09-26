@@ -31,7 +31,7 @@ To publish, upload everything to `public_html` except `reference/` and `README.m
 | Owner    | Iffat Rani Bishart Ali |
 | Mobile   | +971 54 302 9342 |
 | Landline | +971 4 355 4481 |
-| Email    | Muniriqbalinfo@gmail.com |
+| Email    | contact@kunoozalasalah.com |
 | Address  | Office No. 02, 2nd Floor, Arab Bank Building, Port Saeed, Deira, Dubai |
 
 ## To do
